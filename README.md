@@ -1,36 +1,84 @@
-# Personal Portfolio Website in React
+# Personal Portfolio 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://github.com/vamsi190146/My-Portfolio/blob/master/Vamsi-Portfolio.png">
 
-Built using:
+# Personal Portfolio
 
-- Front-end library: React
-- CSS framework: React-bootstrap
-- CSS animations library: Animate.css
+This is my personal portfolio built with React and Node.js. The project showcases my work, skills, and projects.
 
-In the /personal-portfolio, you can run:
+## Table of Contents
 
-### `npm start`
+- [Installation](#installation)
+- [Running the Project Locally](#running-the-project-locally)
+- [Deployment](#deployment)
+  - [GitHub Pages](#github-pages)
+  - [Netlify](#netlify-deployment)
+- [Netlify Deployment Link](#netlify-deployment-link)
+- [Technologies Used](#technologies-used)
+- [Contact](#contact)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Installation
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+To install and set up the project locally, follow these steps:
 
-### `npm test`
+1. **Clone the repository:**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+   ```bash
+   git clone https://github.com/<username>/<repository-name>.git
+   cd <repository-name>
+   Install dependencies:
 
-### `npm run build`
+2.Navigate to the frontend and backend directories and install the necessary dependencies:
+# For React frontend
+cd portfolio-front
+npm install
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# For Node.js backend
+cd ../portfolio-back
+npm install
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Running the Project Locally
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Netlify Deployment
+The project is also deployed on Netlify. To deploy your project on Netlify, follow these steps:
+
+Login to Netlify:
+Go to Netlify and sign up or log in.
+
+Create a new site:
+Click on "New site from Git" and connect your GitHub repository.
+
+Configure the build settings:
+
+Build command: npm run build
+Publish directory: build
+Deploy the site:
+Click "Deploy site" and wait for Netlify to build and deploy your site.
+
+Netlify Deployment Link
+You can view the deployed project on Netlify here.
+
+Technologies Used
+Frontend:
+
+React
+HTML
+CSS
+JavaScript
+Backend:
+
+Node.js
+Express
+Contact
+For any inquiries or feedback, please reach out to me at [your-email@example.com].
+Thank you for visiting my portfolio!
+
+- `https://github.com/vamsi190146`: 
+- `My-Portfolio`: 
+- `https://vamsi-portfolio-mern.netlify.app/`: 
+- `tadiparthivamsi@gmail.com`: 
+
+
+
