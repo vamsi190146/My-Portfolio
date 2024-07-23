@@ -15,7 +15,7 @@ This is my personal portfolio built with React and Node.js. The project showcase
 - [Deployment](#deployment)
   - [GitHub Pages](#github-pages)
   - [Netlify](#netlify-deployment)
-- [Netlify Deployment Link](#netlify-deployment-link)
+- [Netlify Deployment Link](https://vamsi-portfolio-mern.netlify.app/)
 - [Technologies Used](#technologies-used)
 - [Contact](#contact)
 
@@ -72,7 +72,7 @@ Backend:
 Node.js
 Express
 Contact
-For any inquiries or feedback, please reach out to me at [your-email@example.com].
+For any inquiries or feedback, please reach out to me at [tadiparthivamsi@gmail.com].
 Thank you for visiting my portfolio!
 
 - `https://github.com/vamsi190146`: 
