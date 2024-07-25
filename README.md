@@ -21,7 +21,6 @@ This is my personal portfolio built with React and Node.js. The project showcase
 - [Contact](#contact)
 
 ## Installation
-
 To install and set up the project locally, follow these steps:
 
 1. **Clone the repository:**
