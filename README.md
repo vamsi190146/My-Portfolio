@@ -51,6 +51,7 @@ Create a new site:
 Click on "New site from Git" and connect your GitHub repository.
 
 Configure the build settings:
+----------------------------
 
 Build command: npm run build
 Publish directory: build
