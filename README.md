@@ -7,7 +7,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * [Netlify Deployment Link](https://vamsi-portfolio-mern.netlify.app/)
 
 # Personal Portfolio
-
 This is my personal portfolio built with React and Node.js. The project showcases my work, skills, and projects.
 
 ## Table of Contents
