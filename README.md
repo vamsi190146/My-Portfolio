@@ -23,7 +23,6 @@ This is my personal portfolio built with React and Node.js. The project showcase
 To install and set up the project locally, follow these steps:
 
 1. **Clone the repository:**
-
    ```bash
    git clone https://github.com/<username>/<repository-name>.git
    cd <repository-name>
