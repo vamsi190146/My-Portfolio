@@ -18,7 +18,6 @@ This is my personal portfolio built with React and Node.js. The project showcase
   - [Netlify](#netlify-deployment)
 - [Technologies Used](#technologies-used)
 - [Contact](#contact)
-
 ## Installation
 To install and set up the project locally, follow these steps:
 
