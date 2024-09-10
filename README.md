@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Personal Portfolio
 This is my personal portfolio built with React and Node.js. The project showcases my work, skills, and projects.
 
-## Table of Contents
+## Table of Contents 
 
 - [Installation](#installation)
 - [Running the Project Locally](#running-the-project-locally)
